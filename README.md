@@ -28,4 +28,4 @@ which will install all the necessary dependencies needed to run the project
 8-to get back to the homepage you can click on the back arrow on the top left of the `/search` webpage or use the browser's back button
 
 **Available Search Terms**:
-`https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md`
+[https://github.com/udacity/reactnd-project-myreads-starter/blob/master/SEARCH_TERMS.md]
