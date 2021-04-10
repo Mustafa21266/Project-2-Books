@@ -18,8 +18,8 @@ which will install all the necessary dependencies needed to run the project
  which will start the development server and open the browser tab with the web app loaded in it
 
 **How to use it:**
-1-Click on the circle at the bottom right of the book card to open the HTML Select with the options [Currently Reading, Want to Read, Read, None]
-2-if you want to add book to Current Reading section click `Currently Reading`
+1. Click on the circle at the bottom right of the book card to open the HTML Select with the options [Currently Reading, Want to Read, Read, None]
+2. if you want to add book to Current Reading section click `Currently Reading`
 3-if you want to add book to Want To Read section click `Want to Read`
 4-if you want to add book to Read sections click `Read`
 5-if you want to remove a book from all sections click `None`
